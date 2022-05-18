@@ -9,10 +9,10 @@ Assignment for developing a HTTP client in python
 
 ## 例
 
-'''
+```
 python3 http_clt.py http://www.foo.bar.com/hoge/moge.html
-'''
+```
 
-'''
+```
 python3 http_clt.py http://www.foo.bar.com/anicon.gif > img.gif
-'''
+```
